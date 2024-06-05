@@ -7,7 +7,7 @@ ripemd160 python code
 
 def hash160(data):
      ripemd160 = hashlib.new('ripemd160')
-     ripemd160.update(sha256(data)).digest()
+     ripemd160.update(sha256(data).digest())
      return ripemd160.hexdigest()
 
 ```
