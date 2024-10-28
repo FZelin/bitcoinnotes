@@ -1,0 +1,3 @@
+mainnet:  base58 (1 / 3),  bech32:  bc
+testnet:  base58 (m / 2),  bech32:  tb
+regtest:  base58 (m / 2),  bech32:  bcrt
