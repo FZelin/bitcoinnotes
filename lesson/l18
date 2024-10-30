@@ -1,0 +1,5 @@
+```
+bitcoin-cli listreceivedbyaddress 0 true    ->获取所有的地址列表
+
+
+```
