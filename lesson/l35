@@ -1,0 +1,7 @@
+i have some data i want to put into a script "this is base58 yall"
+
+```python
+b'this is base58 yall'.hex()
+
+```
+
